@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caddb5e6-a290-4edc-9feb-541715b6c3a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZekNpJUc2UwQI7mih40A3oGker" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch.sbb.cca.Main" />
+      <module name="processor26" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caddb5e6-a290-4edc-9feb-541715b6c3a1" name="Default Changelist" comment="" />
+      <created>1585206909634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585206909634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="151" key="#Inspections" timestamp="1585208766672">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="552" y="151" key="#Inspections/0.0.1920.984@0.0.1920.984" timestamp="1585208766672" />
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1585208865442">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.984@0.0.1920.984" timestamp="1585208865442" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1585211538997">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.984@0.0.1920.984" timestamp="1585211538997" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1585211538997">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.984@0.0.1920.984" timestamp="1585211538997" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1585211538997">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.984@0.0.1920.984" timestamp="1585211538997" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1585211538997">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.984@0.0.1920.984" timestamp="1585211538997" />
+    <state width="1877" height="325" key="GridCell.Tab.1.bottom" timestamp="1585211539778">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.1.bottom/0.0.1920.984@0.0.1920.984" timestamp="1585211539778" />
+    <state width="1877" height="325" key="GridCell.Tab.1.center" timestamp="1585211539778">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.1.center/0.0.1920.984@0.0.1920.984" timestamp="1585211539778" />
+    <state width="1877" height="325" key="GridCell.Tab.1.left" timestamp="1585211539778">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.1.left/0.0.1920.984@0.0.1920.984" timestamp="1585211539778" />
+    <state width="1877" height="325" key="GridCell.Tab.1.right" timestamp="1585211539778">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.1.right/0.0.1920.984@0.0.1920.984" timestamp="1585211539778" />
+    <state x="461" y="135" key="SettingsEditor" timestamp="1585209457583">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="461" y="135" key="SettingsEditor/0.0.1920.984@0.0.1920.984" timestamp="1585209457583" />
+    <state x="666" y="121" key="refactoring.ChangeSignatureDialog" timestamp="1585211613340">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="666" y="121" key="refactoring.ChangeSignatureDialog/0.0.1920.984@0.0.1920.984" timestamp="1585211613340" />
+    <state x="623" y="211" key="search.everywhere.popup" timestamp="1585206935664">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="623" y="211" key="search.everywhere.popup/0.0.1920.984@0.0.1920.984" timestamp="1585206935664" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch/sbb/cca/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
